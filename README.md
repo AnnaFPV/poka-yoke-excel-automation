@@ -32,6 +32,24 @@ Interface da planilha automatizada com entrada de dados e execução via macro:
 
 ![Planilha Poka-Yoke](planilha-poka-yoke.png)
 
+# Modo de uso
+
+1. Inserir a marca do produto
+2. Preencher os dados da tabela nutricional (gorduras, proteína e carboidratos)
+3. Clicar em "Gerar Cálculo"
+4. O sistema realiza automaticamente os cálculos e apresenta os resultados padronizados
+
+# Habilitação de Macros
+
+Por se tratar de uma ferramenta automatizada em VBA, pode ser necessário habilitar macros no Excel para o funcionamento correto.
+
+Caso o arquivo esteja bloqueado:
+
+1. Clique com o botão direito no arquivo
+2. Acesse "Propriedades"
+3. Marque a opção "Desbloquear"
+4. Abra o arquivo e habilite o conteúdo, se solicitado
+
 # Funcionalidades
 
 * Interface simplificada para entrada de dados
