@@ -26,6 +26,11 @@ Desenvolvimento de uma planilha automatizada em Excel com VBA, onde:
 * Os resultados são gerados de forma padronizada
 * Os dados podem ser salvos automaticamente, reduzindo intervenção manual
 
+# Exemplo da ferramenta
+
+Interface da planilha automatizada com entrada de dados e execução via macro:
+
+![Planilha Poka-Yoke](planilha-poka-yoke.png)
 
 # Funcionalidades
 
